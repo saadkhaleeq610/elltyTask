@@ -66,7 +66,7 @@ const CheckboxModal = () => {
   };
 
   return (
-    <div className="bg-white items-center py-[10px] rounded-[6px] text-[#1F2128] text-[14px] border border-[#EEEEEE] w-[370px] font-montserrat flex flex-col justify-between shadow-[0px_8px_15px_0px_#1414141F,_0px_0px_4px_0px_#1414141A]">
+    <div className="bg-white items-center py-[10px] rounded-[6px] text-[#1F2128] text-[14px] border border-[#EEEEEE] min-w-[370px] font-montserrat flex flex-col justify-between shadow-[0px_8px_15px_0px_#1414141F,_0px_0px_4px_0px_#1414141A]">
       <div className="flex items-center w-full h-[42px] justify-between pt-[8px] pb-[8px] pl-[22px] pr-[15px]">
         <span>All pages</span>
         <div className="flex w-[35px] h-[35px] items-center justify-center">
