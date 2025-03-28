@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="flex flex-col gap-40 justify-center pt-36 items-center">
       <CheckboxModal />
-      <p className='text-sm font-montserrat text-[#a1a1a1]'>Made with 🖤 by Saad Khaleeq</p>
+      <p className='text-sm font-montserrat text-[#a1a1a1]'>Created by Saad Khaleeq</p>
     </div>
   );
 }
