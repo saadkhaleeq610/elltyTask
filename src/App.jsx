@@ -4,8 +4,9 @@ import CustomCheckbox from './CustomCheckbox';
 
 function App() {
   return (
-    <div className="flex justify-center pt-36 items-center">
+    <div className="flex flex-col gap-40 justify-center pt-36 items-center">
       <CheckboxModal />
+      <p className='text-sm font-montserrat text-[#a1a1a1]'>Made with 🖤 by Saad Khaleeq</p>
     </div>
   );
 }
